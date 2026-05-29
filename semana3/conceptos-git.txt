@@ -1,3 +1,0 @@
-Repositorio: sitio en el mundo de la programacion donde se guardan de manera organizada archivos.
-Commit: es un punto de guardado de git que registra y almacena lo que hiciste
-Push: es un comando de git que realiza la transferencia hacia los commits almacenados en el repositorio hacia otro repositorio remoto.
