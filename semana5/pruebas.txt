@@ -1,0 +1,8 @@
+Ruta /:
+Al ingresar a la ruta principal del servidor apareció el mensaje "Servidor activo".
+
+Ruta /saludo:
+Al ingresar a esta ruta apareció el mensaje "Hola comunidad".
+Ruta /mensaje/cristina:
+Al ingresar a esta ruta apareció el mensaje "Hola cristina". El servidor tomó el nombre escrito en la URL y lo utilizó para personalizar el saludo.
+

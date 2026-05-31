@@ -1,0 +1,2 @@
+el caso de este servidor recibe un mensaje y responde con un objeto JSON y pues indica que el reporte fue recibido.
+a las comunidades esta ruta les permitiria enviar reportes sobre situaciones que se presenten, en algunos casos por ejemplo, basuras en sitios inadecuados se reporta y esto llegaria directamente de manera organizada hacia las personas encargadas de gestionar.
