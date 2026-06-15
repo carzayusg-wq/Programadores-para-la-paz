@@ -1,0 +1,17 @@
+Comando: uname -a
+
+Este comando muestra información detallada del sistema operativo, incluyendo el nombre del sistema, la versión del kernel y la arquitectura.
+
+Resultado obtenido:
+Linux Cris 6.18.33.1-microsoft-standard-WSL2
+
+Comando: whoami
+
+Este comando muestra el usuario que está utilizando el sistema.
+
+Resultado obtenido:
+carza
+
+Importancia:
+
+Conocer la información del sistema permite administrar servidores de manera adecuada, identificar el entorno de trabajo y facilitar la solución de problemas.
