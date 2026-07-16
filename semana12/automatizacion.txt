@@ -1,0 +1,15 @@
+Evento que activa la automatización:
+Se registra una nueva causa en la plataforma.
+
+Mensaje enviado:
+"Nueva causa creada en la plataforma Petición en 3 Clics. Revísala y apóyala si estás de acuerdo."
+
+Información que no debe enviarse:
+Cédulas.
+Teléfonos.
+Direcciones.
+Correos electrónicos.
+Comentarios sensibles.
+ Cualquier otro dato personal de los ciudadanos.
+
+Esta automatización puede realizarse utilizando n8n para enviar una notificación a un canal de Telegram cuando se registre una nueva causa.
